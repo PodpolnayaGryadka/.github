@@ -3,13 +3,11 @@
  <img width="960" height="320" src="assets/top.gif" alt="snake"/>
 </p>
 
-# 📌About Organization:
-📃PodpolnayaGryadka develops open-source tools for private and reliable communication, focusing on technical resilience and independence from specific platforms.
+# 📌 About Organization
+📃 PodpolnayaGryadka develops open-source tools for private and reliable communication, focusing on technical resilience and independence from specific platforms.
 
-# 💾Projects
+# 💾 Projects
 
-# 📜People
+# 📜 People
 
-# 🖇️URLs
-
-# ✒️Statistics
+# 🖇️ URLs
